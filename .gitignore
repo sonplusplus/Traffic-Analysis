@@ -3,3 +3,5 @@ models/
 data_sig/
 dataset_yolo/
 input_videos/
+assets/
+.vscode/
